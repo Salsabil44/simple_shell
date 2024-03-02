@@ -3,6 +3,7 @@
 /**
  * @brief Initializes info_t struct.
  * @param info Struct address.
+ * sally
  */
 void shell_clear_info(info_t *info)
 {

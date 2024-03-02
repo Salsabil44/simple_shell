@@ -13,7 +13,7 @@ void _myhistory(void)
     }
 }
 
-/* Unset alias */
+/* Unset aliasally */
 void unset_alias(const char *name)
 {
     struct alias *ap;

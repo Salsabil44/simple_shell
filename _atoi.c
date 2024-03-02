@@ -1,6 +1,6 @@
 #include "shell.h"
 
-// Checks if shell is in interactive mode
+// Checks if shell is in interactive mode by sally
 int interactive(info_t *info)
 {
     return (isatty(STDIN_FILENO) && info->readfd <= 2);
